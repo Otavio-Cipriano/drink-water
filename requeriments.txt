@@ -1,0 +1,4 @@
+pypiwin32==223
+pywin32==306
+setuptools==70.0.0
+win10toast==0.9
